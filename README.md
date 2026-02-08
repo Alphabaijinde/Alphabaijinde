@@ -13,9 +13,9 @@
 - 高保真交互与评估流程系统化
 
 ## Featured
-- **MATRIX**｜高保真仿真平台  
-- **SpecBmad**｜行为建模与评估  
-- **RoadRunner**｜场景生成与道路拓扑模拟  
+- MATRIX｜高保真仿真平台  
+- SpecBmad｜行为建模与评估  
+- RoadRunner｜场景生成与道路拓扑模拟  
 
 ## Stack
 TypeScript · Python · C++ · MuJoCo · Unreal · CARLA · Docker · GitHub Actions
@@ -23,6 +23,7 @@ TypeScript · Python · C++ · MuJoCo · Unreal · CARLA · Docker · GitHub Act
 ---
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Alphabaijinde&show_icons=true&rank_icon=github&hide_title=true&theme=transparent&cache_seconds=86400" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphabaijinde&layout=compact&hide_title=true&theme=transparent&langs_count=6&cache_seconds=86400" />
+  <img src="https://img.shields.io/github/followers/Alphabaijinde?style=social" />
+  <img src="https://img.shields.io/github/stars/Alphabaijinde?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Alphabaijinde&style=flat-square&color=blue" />
 </p>
