@@ -2,7 +2,7 @@
 <p align="center">机器人与智能系统｜高保真仿真与自主系统</p>
 <p align="center">
   <a href="https://alphabaijinde.github.io/">个人主页</a> ·
-  <a href="mailto:970332220@qq.com">邮箱</a>
+  <a href="mailto:baijindegus@gmail.com">邮箱</a>
 </p>
 
 ---
