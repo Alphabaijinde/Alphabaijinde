@@ -34,6 +34,22 @@ Robotics & intelligent systems builder | High-fidelity simulation with MuJoCo / 
 - AI-agent tooling: local bridges, coding workflows, personal knowledge automation, repository intelligence
 - Production habits: TypeScript, Python, C++, Docker, GitHub Actions, reproducible tooling
 
+### Work With Me
+
+| Need | How I can help |
+|------|----------------|
+| Robotics simulation workflow | Architecture review, scenario pipeline design, reproducible experiment setup |
+| Local AI-agent automation | OpenAI-compatible bridges, local tool integration, task and knowledge workflows |
+| Knowledge automation | Obsidian pipelines, content capture, repository intelligence, reusable documentation |
+| Project packaging | README, case study, demo page, technical article structure |
+
+### Writing & Case Studies
+
+- MuJoCo + Unreal Engine 5 + CARLA multi-engine simulation notes
+- OpenDRIVE / OpenSCENARIO workflow for autonomous-driving experiments
+- Xiaohongshu to Obsidian knowledge automation with images and hot comments
+- Local AI-agent bridge design with OpenAI-compatible APIs
+
 ### Links
 
 Personal site: https://alphabaijinde.github.io/<br>
@@ -76,6 +92,22 @@ Email: baijindegus@gmail.com
 - 自主系统工作流：场景构建、可控训练、导航、评估闭环
 - AI Agent 工具链：本地桥接、编程工作流、个人知识自动化、仓库趋势理解
 - 工程栈：TypeScript、Python、C++、Docker、GitHub Actions、可复现实验工具
+
+### 合作方向
+
+| 需求 | 我可以提供 |
+|------|------------|
+| 机器人仿真工作流 | 架构评审、场景管线设计、可复现实验搭建 |
+| 本地 AI Agent 自动化 | OpenAI 兼容桥接、本地工具集成、任务与知识工作流 |
+| 知识自动化 | Obsidian 管线、内容采集、仓库趋势理解、可复用文档 |
+| 项目包装 | README、case study、demo 页面、技术文章结构 |
+
+### 内容与案例选题
+
+- MuJoCo + Unreal Engine 5 + CARLA 多引擎仿真笔记
+- OpenDRIVE / OpenSCENARIO 在自动驾驶实验中的工作流
+- 小红书到 Obsidian 的知识自动化：图片、热评与深度笔记
+- 基于 OpenAI-compatible API 的本地 AI Agent 桥接设计
 
 ### 联系
 
